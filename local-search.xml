@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>这就是一个简单的测试文章~</title>
+    <link href="/2022/06/02/hello-world/"/>
+    <url>/2022/06/02/hello-world/</url>
+    
+    <content type="html"><![CDATA[<h1 id="关于该文章"><a href="#关于该文章" class="headerlink" title="关于该文章"></a>关于该文章</h1><p>其实我也不知道写什么，本来就是测试的，随便写点东西看看能不能用吧。</p><h2 id="一些MD语法测试"><a href="#一些MD语法测试" class="headerlink" title="一些MD语法测试"></a>一些MD语法测试</h2><p>Programming languages: </p><ul><li>C++</li><li>C#</li><li>Java</li><li>Kotlin</li><li>…</li></ul><p>Frameworks:</p><ol><li>Vue</li><li>Spring+</li><li>…</li></ol><h3 id="文本样式"><a href="#文本样式" class="headerlink" title="文本样式"></a>文本样式</h3><p>It’s <strong>bold</strong>, and it’s <em>italic</em>. Right?</p><h3 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h3><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs c++"><span class="hljs-meta">#<span class="hljs-keyword">include</span> <span class="hljs-string">&lt;iostream&gt;</span></span><br><br><span class="hljs-function"><span class="hljs-type">void</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span>&#123;<br>    std::cout &lt;&lt; <span class="hljs-string">&quot;Hello World!&quot;</span> &lt;&lt; std::endl;<br>&#125;<br></code></pre></td></tr></table></figure><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">Hello</span>&#123;<br><br>    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">()</span>&#123;<br>        System.out.println(<span class="hljs-string">&quot;Hello World!&quot;</span>);<br>    &#125;<br><br>&#125;<br></code></pre></td></tr></table></figure><h3 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h3><table><thead><tr><th>#</th><th>Name</th><th>Gender</th></tr></thead><tbody><tr><td>0</td><td>Letty</td><td>Girl</td></tr><tr><td>1</td><td>SalHe</td><td>Boy</td></tr></tbody></table><h3 id="数学公式和流程图"><a href="#数学公式和流程图" class="headerlink" title="数学公式和流程图"></a>数学公式和流程图</h3><p>$$<br>E &#x3D; mc^2<br>$$</p><pre><code class=" mermaid">classDiagramClass01 &lt;|-- AveryLongClass : CoolClass03 *-- Class04Class05 o-- Class06Class07 .. Class08Class09 --&gt; C2 : Where am i?Class09 --* C3Class09 --|&gt; Class07Class07 : equals()Class07 : Object[] elementDataClass01 : size()Class01 : int chimpClass01 : int gorillaClass08 &lt;--&gt; C2: Cool label</code></pre>]]></content>
+    
+    
+    <categories>
+      
+      <category>日记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+      <tag>文章</tag>
+      
+      <tag>公式</tag>
+      
+      <tag>Markdown</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
